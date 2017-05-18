@@ -1,0 +1,11 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ProjectViewChangeView" />
+  <action id="PublishGroup.Download">
+    <keyboard-shortcut first-keystroke="alt f1" />
+  </action>
+  <action id="PublishGroup.SyncLocalVsRemote">
+    <keyboard-shortcut first-keystroke="alt f2" />
+  </action>
+  <action id="SelectIn" />
+  <action id="WebOpenInAction" />
+</keymap>

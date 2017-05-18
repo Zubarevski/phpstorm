@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="pt" type="HTML" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="tmbundle" type="PLAIN_TEXT" />
+      <mapping pattern="p" type="textmate" />
+      <mapping ext="p" type="textmate" />
+    </extensionMap>
+  </component>
+</application>
