@@ -2,9 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="pt" type="HTML" />
+      <mapping pattern="!!!! OPASNO !!!!" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="tmbundle" type="PLAIN_TEXT" />
       <mapping ext="pyc" type="PLAIN_TEXT" />
+      <mapping ext="p buck" type="PLAIN_TEXT" />
       <mapping pattern="Sconstruct" type="textmate" />
       <mapping pattern="py3" type="textmate" />
       <mapping pattern="sconstruct" type="textmate" />
