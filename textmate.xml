@@ -10,6 +10,14 @@
           <option name="name" value="Syntaxes" />
           <option name="path" value="C:/projects/API/parser3.tmbundle/Syntaxes" />
         </BundleConfigBean>
+        <BundleConfigBean>
+          <option name="name" value="Syntaxes" />
+          <option name="path" value="C:/projects/API/python.tmbundle/Syntaxes" />
+        </BundleConfigBean>
+        <BundleConfigBean>
+          <option name="name" value="Preferences" />
+          <option name="path" value="C:/projects/API/python.tmbundle/Preferences" />
+        </BundleConfigBean>
       </list>
     </option>
     <option name="themesMapping">
