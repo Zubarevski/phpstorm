@@ -4,6 +4,7 @@
       <mapping ext="pt" type="HTML" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="tmbundle" type="PLAIN_TEXT" />
+      <mapping ext="pyc" type="PLAIN_TEXT" />
       <mapping pattern="Sconstruct" type="textmate" />
       <mapping pattern="py3" type="textmate" />
       <mapping pattern="sconstruct" type="textmate" />
