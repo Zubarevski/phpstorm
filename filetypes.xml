@@ -8,6 +8,7 @@
       <mapping ext="pyc" type="PLAIN_TEXT" />
       <mapping ext="tmbundle" type="PLAIN_TEXT" />
       <mapping ext="p buck" type="PLAIN_TEXT" />
+      <mapping ext="history" type="PLAIN_TEXT" />
       <mapping pattern="Sconstruct" type="textmate" />
       <mapping pattern="py3" type="textmate" />
       <mapping pattern="sconstruct" type="textmate" />
